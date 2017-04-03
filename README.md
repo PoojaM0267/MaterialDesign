@@ -11,6 +11,8 @@ Material Components for the web is the successor to [Material Design Lite](https
 
 MDC-Web strives to seamlessly incorporate into a wider range of usage contexts, from simple static websites to complex, JavaScript-heavy applications to hybrid client/server rendering systems. In short, whether you're already heavily invested in another framework or not, it should be easy to incorporate Material Components into your site in a lightweight, idiomatic fashion.
 
+> **Note:** MDC-Web is intended to be used for other developers to execute Material Design properly. MDC-Web delegates higher level capabilities to other JS frameworks and libraries. An example is that MDC-Web does not offer the latest of Web components capabilities, e.g. custom elements, Shadow DOM, HTML imports/templates. We expect other JS frameworks and libraries to deal with these configurations.
+
 **[Demos](https://material-components-web.appspot.com/)** (updated with every release)
 
 ## Quick start
